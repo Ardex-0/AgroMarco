@@ -7,8 +7,8 @@ import apple from "/public/assets/images/apple.png"
 import meet from "/public/assets/images/agromarco-logo.png"
 
 export const metadata = {
-  title: "شبکه اشتراک دانش کشاورزی",
-  description: "مجموعه شرکت‌های خوشه پروران در سال 1393 با هدف تولید کودهای زیستی و شیمیایی و تامین نهاده‌های بخش کشاورزی شروع به فعالیت کرد.",
+  title: "پلتفرم بازار کشاورزی",
+  description: "",
 };
 
 

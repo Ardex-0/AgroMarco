@@ -5,8 +5,8 @@ import AgroMarco from "./agromarco/page";
 
 export default function RootLayout() {
   const metadata = {
-    title: "اگرومیتو | شبکه اشتراک دانش کشاورزی کشاورزی",
-    description: "                  بستری برای آموزش و یادگیری کشاورزی به سبکی نوین و اثربخش، برگزاری جلسات آنلاین برای کشاورزان و فعالین این حوزه",
+    title: "اگرومارکو | پلتفرم بازار کشاورزی",
+    description: "",
   }
   return (
     <html lang="fa-IR" dir="rtl">
