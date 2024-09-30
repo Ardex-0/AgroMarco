@@ -54,7 +54,7 @@ const AgroMarco = () => {
             </Link>
           </div>
 
-          <Image className="lg:w-[42%] max-lg:w-[80%] hover:brightness-110 hover:-translate-y-2 hover:scale-105 duration-500" src={pooster} alt="agro-meet" />
+          <Image className="lg:w-[42%] max-lg:w-[80%] hover:brightness-110 hover:-translate-y-2 hover:scale-105 duration-500 z-50" src={pooster} alt="agro-meet" />
 
         </div>
 
