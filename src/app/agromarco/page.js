@@ -34,9 +34,9 @@ const AgroMarco = () => {
 
         </div>
 
-        <div className={`flex flex-row max-lg:flex-col gap-24 max-lg:gap-2 items-center justify-center mb-4 !rounded-2xl p-4 max-lg:p-px`}>
+        <div className={`flex flex-row max-lg:flex-col-reverce gap-24 max-lg:gap-2 items-center justify-center mb-4 !rounded-2xl p-4 max-lg:p-px`}>
 
-          <div className={`agroyaar-button z-50 lg:w-[50%] -mr-20 flex flex-col max-lg:w-[95%] items-center justify-center gap-4 py-6 bg-[#007D3E] rounded-[20px]`}>
+          <div className={`agroyaar-button z-50 lg:w-[50%] lg:-mr-20 flex flex-col max-lg:w-[95%] items-center justify-center gap-4 py-6 bg-[#007D3E] rounded-[20px]`}>
             <div className="flex flex-col items-center justify-center gap-6">
               <h4 className="text-white text-center text-3xl max-lg:text-2xl font-bold">
                 اگرو مارکو
