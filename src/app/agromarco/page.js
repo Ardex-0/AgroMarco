@@ -59,7 +59,7 @@ const AgroMarco = () => {
         </div>
 
        
-        <Image className="absolute opacity-60 -right-20 top-[120px] z-0 hover:-translate-y-12 hover:opacity-100 duration-500" src={apple} alt="agromarco-apple" width={306} />
+        <Image className="absolute opacity-60 max-lg:w-[45%] -right-20 top-[120px] max-lg:top-[400px] z-0 hover:-translate-y-12 hover:opacity-100 duration-500" src={apple} alt="agromarco-apple" width={306} />
         {/* <Image className="absolute -bottom-24" src={celery} alt="agromarco-carafs" width={264} /> */}
 
       </div>
